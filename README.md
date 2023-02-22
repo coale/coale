@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 TOOL DA GUARDARE:
+
 https://readme-typing-svg.demolab.com/demo/
 
 https://simpleicons.org/?q=42
