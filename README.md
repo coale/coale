@@ -4,11 +4,11 @@
 ## 42 School:
 [![aconta's 42 stats](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 ## Having fun while learning:
-### Codewars
-![](https://www.codewars.com/users/CoAle/badges/large)
 
-### TryHackMe
-![](https://tryhackme-badges.s3.amazonaws.com/atypicalNebu.png?)
+|Codewars|TryHackeMe|
+|--------|----------|
+|![](https://www.codewars.com/users/CoAle/badges/micro)|![](https://tryhackme-badges.s3.amazonaws.com/atypicalNebu.png?)|
+
 
 <!--
 **coale/coale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
