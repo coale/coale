@@ -4,7 +4,7 @@
 
 |Codewars|TryHackMe|
 |--------|----------|
-|![](https://www.codewars.com/users/CoAle/badges/micro)|![](https://tryhackme-badges.s3.amazonaws.com/atypicalNebu.png?)|
+|![](https://www.codewars.com/users/CoAle/badges/micro)|![](https://tryhackme-badges.s3.amazonaws.com/atypicalNebu.png)|
 
 
 <!--
