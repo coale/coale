@@ -1,4 +1,4 @@
-[![aconta's 42 stats](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42) <br><br>
+<!-- [![aconta's 42 stats](https://badge42.vercel.app/api/v2/clbqdjc5500060fksggjr3ti8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42) <br><br> -->
 Hello!<br>
 I'm a programming student interested in the cybersecurity field, [here](http://coale.github.io/) you can read more about me.
 
@@ -22,11 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-TOOL DA GUARDARE:
-
-https://readme-typing-svg.demolab.com/demo/
-
-https://simpleicons.org/?q=42
 -->
